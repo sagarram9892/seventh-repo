@@ -20,7 +20,7 @@ function App() {
   return (
     <div>
       <h1>List of users</h1>
-      <h1>Second list hii</h1>
+      <h1>Second list</h1>
       <Font/>
       <Mark/>
       <ul>
